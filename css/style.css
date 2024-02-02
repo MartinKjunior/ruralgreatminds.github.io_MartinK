@@ -2154,3 +2154,10 @@ a:focus {
         text-align: center;
     }
 }
+
+.partner-logo {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
