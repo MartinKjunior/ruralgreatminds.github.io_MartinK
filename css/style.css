@@ -2161,3 +2161,20 @@ a:focus {
     margin-left: auto;
     margin-right: auto;
 }
+
+.center-text {
+    text-align: center;
+}
+
+.image-space {
+    margin-bottom: 20px;
+}
+
+.profile-image-text-container {
+    display: flex;
+    align-items: center;
+}
+.profile-image-text-container img {
+    width: 1000px;
+    margin-right: 20px;
+}
