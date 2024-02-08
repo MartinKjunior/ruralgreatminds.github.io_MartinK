@@ -2173,8 +2173,14 @@ a:focus {
 .profile-image-text-container {
     display: flex;
     align-items: center;
+    padding-left: 150px;
 }
 .profile-image-text-container img {
-    width: 1000px;
+    width: 700px;
     margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-text {
+    padding: 0;
 }
